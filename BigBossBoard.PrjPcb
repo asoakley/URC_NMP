@@ -159,6 +159,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRRYSFBH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BigBossBoard\Design Rule Check - BBB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
