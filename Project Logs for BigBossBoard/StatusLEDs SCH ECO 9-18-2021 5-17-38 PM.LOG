@@ -1,0 +1,8 @@
+Change Component Parameter Description in D1 Old=SMD mono-color Chip LED, WL-SMCW, Bright Green New=
+Change Component Parameter Description in D2 Old=SMD mono-color Chip LED, WL-SMCW, Bright Green New=
+Change Component Parameter Description in R1 Old=RES SMD 240 OHM 1% 1/8W 0805 New=
+Change Component Parameter Description in R2 Old=RES SMD 240 OHM 1% 1/8W 0805 New=
+Added Parameter Manufacturer Part Number= to Part D1
+Added Parameter Manufacturer Part Number= to Part D2
+Added Parameter Manufacturer Part Number= to Part R1
+Added Parameter Manufacturer Part Number= to Part R2

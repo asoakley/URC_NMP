@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BigBossBoard.PrjPcb]
+   Generated File[BBB.TXT]
+   Generated File[BBB.DRL]
+   Generated File[BBB.LDP]
+   Generated File[BBB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:24:17 PM On 9/22/2021

@@ -1,0 +1,7 @@
+Change Component Parameter Description in P1 Old=CONN HEADER VERT 4POS 2.54MM New=
+Change Component Parameter Description in Q1 Old=N-Channel Logic Level Enhancement Mode Field Effect Transistor, 1.7 V, -55 to 150 degC, 3-Pin SOT-23, RoHS, Tape and Reel New=
+Change Component Parameter Description in R3 Old=RES SMD 10K OHM 1% 1/8W 0805 New=
+Change Component Parameter Description in R4 Old=RES SMD 549 OHM 1% 1/8W 0805 New=
+Added Parameter Manufacturer Part Number= to Part Q1
+Added Parameter Manufacturer Part Number= to Part R3
+Added Parameter Manufacturer Part Number= to Part R4

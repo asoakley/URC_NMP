@@ -1,0 +1,63 @@
+Removed Parameter @ qty:1500 from Part R1
+Removed Parameter @ qty:1500 from Part R2
+Removed Parameter Color:Bright Green from Part D1
+Removed Parameter Color:Bright Green from Part D2
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part D1
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part D2
+Removed Parameter ComponentLink1URL:http://www.we-online.com from Part D1
+Removed Parameter ComponentLink1URL:http://www.we-online.com from Part D2
+Removed Parameter ComponentLink2Description:Datasheet from Part D1
+Removed Parameter ComponentLink2Description:Datasheet from Part D2
+Removed Parameter ComponentLink2URL:http://katalog.we-online.com/led/datasheet/150080VS75000.pdf from Part D1
+Removed Parameter ComponentLink2URL:http://katalog.we-online.com/led/datasheet/150080VS75000.pdf from Part D2
+Removed Parameter Composition:Thick Film from Part R1
+Removed Parameter Composition:Thick Film from Part R2
+Removed Parameter Datasheets:http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF2400V+7+WW from Part R1
+Removed Parameter Datasheets:http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ6ENF2400V+7+WW from Part R2
+Removed Parameter Digi-Key Part Number:P240CCT-ND from Part R1
+Removed Parameter Digi-Key Part Number:P240CCT-ND from Part R2
+Removed Parameter Factory Stock:0 from Part R1
+Removed Parameter Factory Stock:0 from Part R2
+Removed Parameter Failure Rate:- from Part R1
+Removed Parameter Failure Rate:- from Part R2
+Removed Parameter Features:Automotive AEC-Q200 from Part R1
+Removed Parameter Features:Automotive AEC-Q200 from Part R2
+Removed Parameter Height - Seated (Max):0.028" (0.70mm) from Part R1
+Removed Parameter Height - Seated (Max):0.028" (0.70mm) from Part R2
+Removed Parameter Image://media.digikey.com/Renders/Panasonic%20Renders/ERJ-0805%20Pkg.jpg from Part R1
+Removed Parameter Image://media.digikey.com/Renders/Panasonic%20Renders/ERJ-0805%20Pkg.jpg from Part R2
+Removed Parameter Minimum Quantity:1 from Part R1
+Removed Parameter Minimum Quantity:1 from Part R2
+Removed Parameter Number of Terminations:2 from Part R1
+Removed Parameter Number of Terminations:2 from Part R2
+Removed Parameter Operating Temperature:-55°C ~ 155°C from Part R1
+Removed Parameter Operating Temperature:-55°C ~ 155°C from Part R2
+Removed Parameter Package / Case:0805 (2012 Metric) from Part R1
+Removed Parameter Package / Case:0805 (2012 Metric) from Part R2
+Removed Parameter PackageReference:0805_A from Part D1
+Removed Parameter PackageReference:0805_A from Part D2
+Removed Parameter Packaging:Cut Tape (CT) from Part R1
+Removed Parameter Packaging:Cut Tape (CT) from Part R2
+Removed Parameter PartNumber:150080VS75000 from Part D1
+Removed Parameter PartNumber:150080VS75000 from Part D2
+Removed Parameter Part Number:ERJ-6ENF2400V from Part R1
+Removed Parameter Part Number:ERJ-6ENF2400V from Part R2
+Removed Parameter Part Status:Active from Part R1
+Removed Parameter Part Status:Active from Part R2
+Removed Parameter Power (Watts):0.125W, 1/8W from Part R1
+Removed Parameter Power (Watts):0.125W, 1/8W from Part R2
+Removed Parameter Quantity Available:62802 from Part R1
+Removed Parameter Quantity Available:62802 from Part R2
+Removed Parameter Series:ERJ from Part R1
+Removed Parameter Series:ERJ from Part R2
+Removed Parameter Size / Dimension:0.079" L x 0.049" W (2.00mm x 1.25mm) from Part R1
+Removed Parameter Size / Dimension:0.079" L x 0.049" W (2.00mm x 1.25mm) from Part R2
+Removed Parameter Supplier Device Package:0805 from Part R1
+Removed Parameter Supplier Device Package:0805 from Part R2
+Removed Parameter Temperature Coefficient:±100ppm/°C from Part R1
+Removed Parameter Temperature Coefficient:±100ppm/°C from Part R2
+Removed Parameter Tolerance:±1% from Part R1
+Removed Parameter Tolerance:±1% from Part R2
+Removed Parameter Unit Price (USD):0.00729 from Part R1
+Removed Parameter Unit Price (USD):0.00729 from Part R2
+Change Component Parameter Description in D1 Old=SMD mono-color Chip LED New=
